@@ -1,0 +1,11 @@
+Application URL: http://techfios.com/test/101/
+For each answer, provide the same project link to your github. 
+Project must be a stand alone maven project with page object model design pattern including all drivers / data files.
+Try not use Xpath unless that's the last option. Avoid using absolute xpath.
+ 
+JUnit Project
+Test 1: Validate when the toggle all check box is CHECKED, all check boxes for list items are also CHECKED ON.
+
+Test 2: Validate that a single list item could be removed using the remove button when a single checkbox is selected.
+
+Test 3: Validate that all list item could be removed using the remove button and when "Toggle All" functionality is on.
